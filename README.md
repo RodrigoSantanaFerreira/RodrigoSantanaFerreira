@@ -7,13 +7,28 @@
 
 <p align="left"> <a href="https://twitter.com/rodrigofs10" target="blank"><img src="https://img.shields.io/twitter/follow/rodrigofs10?logo=twitter&style=for-the-badge" alt="rodrigofs10" /></a> </p>
 
-- 🔭 I’m currently working on [iRestify](https://irestify.com/)
+**Bio**
 
-- 🌱 I’m currently learning **DeltaLake, Data Engineering, Data Warehouse**
+- 👷‍♂️ I’m currently working on [iRestify](https://irestify.com/)
+
+- 💡 Contributing to Stack Academy with Online Courses: [Stack Academy](https://stackacademy.com.br/)
+
+- 🔥 Interested in  **Data Engineering** and **Data Science**
+
+**Working**
+
+🚀 I use daily: <code>.py</code>, <code>.tf</code>, <code>.yml</code>, <code>.sh</code>
+
+🚀 My currently Stack: <code> AWS Glue, AWS Crawlers, Spark, Delta Lakehouse and Redshift.</code>
+
+✅ Learning every day about **Data Engineering**
+
+✅ Ping me about Data Engineering, Python, Docker, Spark, DeltaLakehouse, Terraform.
+
+
+**Community**
 
 - 👯 I’m looking to collaborate on **Data Architecture, Data Platform and everything that involves data engineering and analytics.**
-
-- 🤝 I’m looking for help with **Data Engineering**
 
 - 👨‍💻 All of my projects are available at [https://github.com/RodrigoSantanaFerreira](https://github.com/RodrigoSantanaFerreira)
 
